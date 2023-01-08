@@ -1,7 +1,7 @@
 {
   "name": "myfirstapp",
   "version": "0.1.0",
-  "homepage": "https://calm-river-0e2b68f03.2.azurestaticapps.net",
+  "homepage": ".",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
